@@ -1,5 +1,4 @@
-# README
-## This is the README for your extension "steve-zissou"
+# Steve Zissou
 This is Steve Zissou's favourite VS Code theme!
 
 ### For more information
